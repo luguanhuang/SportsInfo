@@ -1,0 +1,77 @@
+2024-07-05 14:05:06  INFO     getUserLogin data={'username': 'test1', 'passwd': 'test1'}
+2024-07-05 14:05:06  INFO     Servicepopularity data=
+2024-07-05 14:05:06  INFO     ServiceRanking data={'times': 'today'}
+2024-07-05 14:05:06  INFO     Keywordpopularity data=
+2024-07-05 14:05:06  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:05:06  INFO     ServiceRanking data=
+2024-07-05 14:05:06  INFO     getDataOverview data=
+2024-07-05 14:05:06  INFO     getDialogueData data=
+2024-07-05 14:05:06  INFO     ScriptsCategoryRelat: func begin
+2024-07-05 14:05:07  INFO     Servproductdata data=
+2024-07-05 14:05:11  INFO     ServiceRanking data={'times': 'recentlyonemonth'}
+2024-07-05 14:10:01  INFO     ServiceRanking data={'times': 'today'}
+2024-07-05 14:10:01  INFO     getDataOverview data=
+2024-07-05 14:10:01  INFO     Keywordpopularity data=
+2024-07-05 14:10:01  INFO     Servicepopularity data=
+2024-07-05 14:10:01  INFO     ServiceRanking data=
+2024-07-05 14:10:01  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:10:01  INFO     getDialogueData data=
+2024-07-05 14:10:01  INFO     ScriptsCategoryRelat: func begin
+2024-07-05 14:10:01  INFO     Servproductdata data=
+2024-07-05 14:10:05  INFO     ServiceRanking data={'times': 'recentlyonemonth'}
+2024-07-05 14:14:26  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:14:26  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:15:48  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:15:48  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:15:54  INFO     Servicepopularity data=
+2024-07-05 14:15:54  INFO     getDataOverview data=
+2024-07-05 14:15:54  INFO     ServiceRanking data={'times': 'today'}
+2024-07-05 14:15:54  INFO     Keywordpopularity data=
+2024-07-05 14:15:54  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:15:54  INFO     ServiceRanking data=
+2024-07-05 14:15:55  INFO     getDialogueData data=
+2024-07-05 14:15:55  INFO     ScriptsCategoryRelat: func begin
+2024-07-05 14:15:55  INFO     Servproductdata data=
+2024-07-05 14:16:22  INFO     Servicepopularity data=
+2024-07-05 14:16:22  INFO     ServiceRanking data=
+2024-07-05 14:16:22  INFO     ServiceRanking data={'times': 'today'}
+2024-07-05 14:16:22  INFO     Keywordpopularity data=
+2024-07-05 14:16:22  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:16:23  INFO     getDataOverview data=
+2024-07-05 14:16:23  INFO     ScriptsCategoryRelat: func begin
+2024-07-05 14:16:23  INFO     getDialogueData data=
+2024-07-05 14:16:23  INFO     Servproductdata data=
+2024-07-05 14:17:14  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:17:14  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:17:42  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:17:42  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:17:59  INFO     getDataOverview data=
+2024-07-05 14:17:59  INFO     Keywordpopularity data=
+2024-07-05 14:17:59  INFO     Servicepopularity data=
+2024-07-05 14:18:00  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:18:00  INFO     ServiceRanking data={'times': 'today'}
+2024-07-05 14:18:00  INFO     ServiceRanking data=
+2024-07-05 14:18:00  INFO     getDialogueData data=
+2024-07-05 14:18:00  INFO     ScriptsCategoryRelat: func begin
+2024-07-05 14:18:00  INFO     Servproductdata data=
+2024-07-05 14:19:20  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:19:20  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:19:52  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:19:52  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:20:09  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:20:09  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:21:25  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:21:25  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:21:39  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:21:39  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:22:22  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:22:22  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:22:24  INFO     getDataOverview data=
+2024-07-05 14:22:24  INFO     Servicepopularity data=
+2024-07-05 14:22:24  INFO     Keywordpopularity data=
+2024-07-05 14:22:24  INFO     ServiceRanking data={'times': 'today'}
+2024-07-05 14:22:24  INFO     getKeywordProdRelat: func begin
+2024-07-05 14:22:24  INFO     ServiceRanking data=
+2024-07-05 14:22:25  INFO     ScriptsCategoryRelat: func begin
+2024-07-05 14:22:25  INFO     getDialogueData data=
+2024-07-05 14:22:25  INFO     Servproductdata data=

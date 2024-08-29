@@ -1,0 +1,9 @@
+uvicorn
+fastapi
+pyyaml
+stomp.py
+dbutils
+pymysql
+apscheduler
+requests
+beautifulsoup4 
