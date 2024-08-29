@@ -14,6 +14,8 @@ query_new_interval=3600
 query_main_score_interval=3600
 query_odds_interval=3600
 
+isuse_proxy = 1
+
 # db2_mysqlhost = "47.115.38.13"
 # db2_mysqlport = 3306
 # db2_mysqluser = "root"

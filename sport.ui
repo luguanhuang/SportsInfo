@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1340</width>
+    <width>1441</width>
     <height>877</height>
    </rect>
   </property>
@@ -17,10 +17,10 @@
    <widget class="QTableWidget" name="tableWidget">
     <property name="geometry">
      <rect>
-      <x>10</x>
-      <y>100</y>
-      <width>1241</width>
-      <height>631</height>
+      <x>0</x>
+      <y>110</y>
+      <width>1351</width>
+      <height>741</height>
      </rect>
     </property>
     <column>
@@ -45,22 +45,22 @@
     </column>
     <column>
      <property name="text">
-      <string>主盘口</string>
-     </property>
-    </column>
-    <column>
-     <property name="text">
       <string>主赔率</string>
      </property>
     </column>
     <column>
      <property name="text">
-      <string>客盘口</string>
+      <string>主盘口</string>
      </property>
     </column>
     <column>
      <property name="text">
       <string>客赔率</string>
+     </property>
+    </column>
+    <column>
+     <property name="text">
+      <string>客盘口</string>
      </property>
     </column>
     <column>
@@ -92,8 +92,8 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>30</y>
+      <x>20</x>
+      <y>10</y>
       <width>71</width>
       <height>31</height>
      </rect>
@@ -105,8 +105,8 @@
    <widget class="QLabel" name="label_2">
     <property name="geometry">
      <rect>
-      <x>250</x>
-      <y>40</y>
+      <x>450</x>
+      <y>20</y>
       <width>71</width>
       <height>31</height>
      </rect>
@@ -115,11 +115,11 @@
      <string>联赛名:</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_2">
+   <widget class="QLineEdit" name="leaguename">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>50</y>
+      <x>510</x>
+      <y>30</y>
       <width>121</width>
       <height>21</height>
      </rect>
@@ -128,8 +128,8 @@
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
-      <x>510</x>
-      <y>50</y>
+      <x>670</x>
+      <y>30</y>
       <width>71</width>
       <height>31</height>
      </rect>
@@ -138,11 +138,11 @@
      <string>新闻标题:</string>
     </property>
    </widget>
-   <widget class="QLineEdit" name="lineEdit_3">
+   <widget class="QLineEdit" name="newtitle">
     <property name="geometry">
      <rect>
-      <x>590</x>
-      <y>60</y>
+      <x>730</x>
+      <y>40</y>
       <width>121</width>
       <height>21</height>
      </rect>
@@ -151,8 +151,8 @@
    <widget class="QLabel" name="label_4">
     <property name="geometry">
      <rect>
-      <x>740</x>
-      <y>60</y>
+      <x>20</x>
+      <y>70</y>
       <width>81</width>
       <height>31</height>
      </rect>
@@ -164,7 +164,7 @@
    <widget class="QLineEdit" name="lineEdit_4">
     <property name="geometry">
      <rect>
-      <x>830</x>
+      <x>140</x>
       <y>70</y>
       <width>121</width>
       <height>21</height>
@@ -174,8 +174,8 @@
    <widget class="QPushButton" name="querydata">
     <property name="geometry">
      <rect>
-      <x>1000</x>
-      <y>60</y>
+      <x>350</x>
+      <y>70</y>
       <width>91</width>
       <height>31</height>
      </rect>
@@ -187,8 +187,8 @@
    <widget class="QPushButton" name="exportdata">
     <property name="geometry">
      <rect>
-      <x>1100</x>
-      <y>60</y>
+      <x>870</x>
+      <y>70</y>
       <width>91</width>
       <height>31</height>
      </rect>
@@ -197,14 +197,60 @@
      <string>导出</string>
     </property>
    </widget>
-   <widget class="QDateTimeEdit" name="dateTimeEdit">
+   <widget class="QDateTimeEdit" name="fromDateTime">
     <property name="geometry">
      <rect>
       <x>100</x>
-      <y>40</y>
+      <y>20</y>
       <width>141</width>
       <height>22</height>
      </rect>
+    </property>
+   </widget>
+   <widget class="QDateTimeEdit" name="toDateTime">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>20</y>
+      <width>141</width>
+      <height>22</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>260</x>
+      <y>20</y>
+      <width>71</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>到</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="savepath">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>70</y>
+      <width>291</width>
+      <height>31</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pathselect">
+    <property name="geometry">
+     <rect>
+      <x>820</x>
+      <y>73</y>
+      <width>31</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>...</string>
     </property>
    </widget>
   </widget>
@@ -213,7 +259,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1340</width>
+     <width>1441</width>
      <height>22</height>
     </rect>
    </property>

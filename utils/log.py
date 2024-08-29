@@ -31,5 +31,6 @@ def logger_request_create(name):
 # 创建并配置logger  
 logger = logger_request_create("logger")
 sportlogger = logger_request_create("sportdata")
+sportguilogger = logger_request_create("sportgui")
 # mqttserver = logger_request_create("mqttserver")
 # tcpserver = logger_request_create("tcpserver")
